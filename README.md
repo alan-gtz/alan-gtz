@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everyone, my name is Alan, and i am currently still studying my degree in computer engineering ✨
 
 <!--
 **alan-gtz/alan-gtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
